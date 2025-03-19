@@ -1,1 +1,1 @@
-# service-registry
+# department-api
